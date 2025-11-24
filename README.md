@@ -11,9 +11,8 @@
 
 **📚 HTML, CSS, JavaScript, Bootstrap, C#, SQL Server!**
 <br>
-**💻 Aprendendo programação!**
+**💻 Aprendendo programação e focando na área financeira!**
 <br>
-**📚 Análise e desenvolvimento de sistemas na PUC MINAS - 2º/5º!**
 
 
 ### Contacts:
